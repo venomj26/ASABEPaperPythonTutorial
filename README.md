@@ -1,4 +1,6 @@
 # HEC-Spring-2023 in prep for the ASABE paper
+[![DOI](https://zenodo.org/badge/629244238.svg)](https://zenodo.org/badge/latestdoi/629244238)
+
 
 Created to organize the lectures given in ASM 105 in April 2023.
 
